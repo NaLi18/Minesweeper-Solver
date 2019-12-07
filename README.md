@@ -21,7 +21,9 @@ Lina Li,  Xuanzuo Liu,  Jinyu Tian, Santhosh Ranganathan, Zhi Lu
 ### Components of Minesweeper Solver <h3>
     
     Tkinter: it is a Python binding to the Tk GUI toolkit. It is the standard Python interface to the Tk GUI toolkit and is Python's defacto standard GUI. Tkinter is included with standard Linux, Microsoft Windows and Mac OS X installs of Python. The name Tkinter comes from Tk interface. We use Tkinter to create the frame interface of the game. Including the drop-down menu, restart button. and listener to the event when the status of square is changed. 
-   
+
+
+ ![The window of small size Minesweeper](/image.png)
  
 ### Environment Setup: <h3>
   
